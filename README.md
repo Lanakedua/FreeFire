@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.seeklogo.com/logo-png/35/1/free-fire-logo-png_seeklogo-354358.png" width="180" alt="Free Fire Squad Logo" />
+  <img src="https://p7.hiclipart.com/preview/121/207/781/garena-rov-mobile-moba-league-of-legends-youtube-singapore-cd.jpg" width="180" alt="Free Fire Squad Logo" />
 </p>
 
 <h1 align="center" style="font-family: 'Courier New', monospace; font-weight: 900;">
