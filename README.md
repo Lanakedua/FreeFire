@@ -13,13 +13,6 @@
 </p>
 
 ---
-
-### 🧠 INTEGRASI SOSIAL MEDIA (IMGUI.NET STYLE)
-
-<p align="center" style="margin-bottom: 10px;">
-  <span style="background: #16213e; color: #e94560; padding: 4px 16px; border-radius: 20px; font-size: 12px; font-weight: bold; letter-spacing: 2px;">[ DIRECT LINK PANEL ]</span>
-</p>
-
 <table align="center" style="width: 100%; max-width: 750px; background: #161b22; border-radius: 12px; border-collapse: collapse; border: 0.5px solid #30363d; overflow: hidden;">
   <!-- HEADER -->
   <thead>
