@@ -50,37 +50,72 @@ Buat lu yang nyari library visual tapi males pake *HTML murni* buat overlay chea
 
 ---
 
-### 🛠️ SNIPPET KODE C# (IMPLEMENTASI OVERLAY)
+### 📞 CONTACT PANEL // SOSMED SQUAD XIOWU
 
-```csharp
-// XIOWU DEVELOPER - IMGUI.NET RENDER LOOP
-// JANGAN LUPA SET 'IsOverlay = true' di WndProc
+<p align="center" style="margin-bottom: 10px;">
+  <span style="background: #16213e; color: #e94560; padding: 4px 16px; border-radius: 20px; font-size: 12px; font-weight: bold; letter-spacing: 2px;">[ DEVELOPER ACCESS ]</span>
+</p>
 
-using ImGuiNET;
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 12px; max-width: 700px; margin: 0 auto;">
+  
+  <!-- TIKTOK CARD -->
+  <div style="background: var(--color-background-secondary); border-radius: 12px; padding: 16px 8px; text-align: center; border: 0.5px solid var(--color-border-tertiary);">
+    <div style="font-size: 28px; margin-bottom: 8px;">🎵</div>
+    <div style="font-weight: 600; font-size: 16px; color: var(--color-text-primary);">@_xiowu</div>
+    <div style="font-size: 11px; margin-top: 6px; padding: 4px 10px; background: #010101; color: #ff0050; border-radius: 20px; display: inline-block; font-weight: 500;">TIKTOK</div>
+    <div style="font-size: 12px; color: var(--color-text-secondary); margin-top: 10px;">⚡ 250K Followers</div>
+  </div>
 
-public unsafe void RenderVisuals()
-{
-    // Render Box ESP ala Diagram
-    ImGui.GetForegroundDrawList().AddRect(
-        new System.Numerics.Vector2(100, 100), 
-        new System.Numerics.Vector2(200, 200), 
-        ImGui.ColorConvertFloat4ToU32(new System.Numerics.Vector4(0.2f, 0.8f, 0.4f, 1.0f)), 
-        0.0f, 
-        ImDrawFlags.RoundCornersAll, 
-        2.0f
-    );
+  <!-- DISCORD CARD -->
+  <div style="background: var(--color-background-secondary); border-radius: 12px; padding: 16px 8px; text-align: center; border: 0.5px solid var(--color-border-tertiary);">
+    <div style="font-size: 28px; margin-bottom: 8px;">💬</div>
+    <div style="font-weight: 600; font-size: 16px; color: var(--color-text-primary);">@xiowuche</div>
+    <div style="font-size: 11px; margin-top: 6px; padding: 4px 10px; background: #5865F2; color: white; border-radius: 20px; display: inline-block; font-weight: 500;">DISCORD</div>
+    <div style="font-size: 12px; color: var(--color-text-secondary); margin-top: 10px;">🟢 Online 24/7</div>
+  </div>
 
-    // Render Statistik Kesehatan (Progress Bar)
-    ImGui.GetForegroundDrawList().AddRectFilled(
-        new System.Numerics.Vector2(80, 210), 
-        new System.Numerics.Vector2(80 + (120 * 0.75f), 220), 
-        ImGui.ColorConvertFloat4ToU32(new System.Numerics.Vector4(0.9f, 0.2f, 0.2f, 1.0f))
-    );
-    
-    // Render Nama Player (Text)
-    ImGui.GetForegroundDrawList().AddText(
-        new System.Numerics.Vector2(100, 90), 
-        ImGui.ColorConvertFloat4ToU32(new System.Numerics.Vector4(1f, 1f, 1f, 1f)), 
-        "XIOWU_BOT [HEADSHOT]"
-    );
-}
+  <!-- INSTAGRAM CARD -->
+  <div style="background: var(--color-background-secondary); border-radius: 12px; padding: 16px 8px; text-align: center; border: 0.5px solid var(--color-border-tertiary);">
+    <div style="font-size: 28px; margin-bottom: 8px;">📷</div>
+    <div style="font-weight: 600; font-size: 16px; color: var(--color-text-primary);">@xreoip4</div>
+    <div style="font-size: 11px; margin-top: 6px; padding: 4px 10px; background: #d62976; color: white; border-radius: 20px; display: inline-block; font-weight: 500;">INSTAGRAM</div>
+    <div style="font-size: 12px; color: var(--color-text-secondary); margin-top: 10px;">📸 120K Followers</div>
+  </div>
+
+  <!-- TELEGRAM CARD -->
+  <div style="background: var(--color-background-secondary); border-radius: 12px; padding: 16px 8px; text-align: center; border: 0.5px solid var(--color-border-tertiary);">
+    <div style="font-size: 28px; margin-bottom: 8px;">✈️</div>
+    <div style="font-weight: 600; font-size: 16px; color: var(--color-text-primary);">@xiowustore</div>
+    <div style="font-size: 11px; margin-top: 6px; padding: 4px 10px; background: #26A5E4; color: white; border-radius: 20px; display: inline-block; font-weight: 500;">TELEGRAM</div>
+    <div style="font-size: 12px; color: var(--color-text-secondary); margin-top: 10px;">📢 Channel Update</div>
+  </div>
+
+</div>
+
+<!-- WHATSAPP ROW (FULL WIDTH) -->
+<div style="max-width: 700px; margin: 16px auto 0;">
+  <div style="background: var(--color-background-secondary); border-radius: 12px; padding: 12px 20px; display: flex; align-items: center; gap: 16px; border: 0.5px solid var(--color-border-tertiary);">
+    <div style="font-size: 32px;">📱</div>
+    <div style="flex: 1;">
+      <div style="font-weight: 600; font-size: 18px; color: var(--color-text-primary);">+62 812-5328-0827</div>
+      <div style="font-size: 13px; color: var(--color-text-secondary); margin-top: 2px;">WhatsApp Business • Fast Response</div>
+    </div>
+    <div style="background: #25D366; padding: 6px 16px; border-radius: 30px; font-size: 13px; font-weight: 600; color: white;">WHATSAPP</div>
+  </div>
+</div>
+
+---
+
+### 📦 DEPENDENCIES (SIAP TEMPUR)
+
+- **ImGui.NET** `1.89.9.1` *(Wajib, ini otaknya overlay)*
+- **Vortice.Windows** *(Buat hook DirectX 11/12, biar gak kedetect BE)*
+- **Newtonsoft.Json** *(Simpen konfigurasi Aimbot FOV)*
+
+### 📉 GRAFIK PERFORMA (D3D11 HOOK)
+
+```text
+[CPU USAGE]   ███████░░░░░░░  43% (ImGui Render)
+[GPU USAGE]   ████░░░░░░░░░░  18% (RTX 4060)
+[ESP LINES]   ██████████████  144 Draw Calls
+[BOOYAH RATE] ██████████████  99.99% (Kecuali kena ban manual)
