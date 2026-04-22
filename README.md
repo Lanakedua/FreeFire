@@ -3,36 +3,14 @@
 </p>
 
 <h1 align="center" style="font-family: 'Courier New', monospace; font-weight: 900; color: #FFFFFF;">
-  🔥 IMAGINE.CORE // VISUAL SUITE 2026 🔥
+  🔥 XIOWU STORE - PANEL BEST 🔥
 </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-UNDETECTED-success?style=for-the-badge&logo=accenture" />
-  <img src="https://img.shields.io/badge/BOOYAH!-99%25-red?style=for-the-badge&logo=riotgames" />
   <img src="https://img.shields.io/badge/ImGui.Net-1.89.9-blueviolet?style=for-the-badge&logo=dotnet" />
   <img src="https://img.shields.io/badge/.NET-8.0-purple?style=for-the-badge&logo=dotnet" />
 </p>
-
----
-
-### 📊 STATISTIK SQUAD (RUNTIME ANALYTICS)
-
-<table align="center" style="background-color: #0d1117; border: none;">
-  <tr>
-    <td align="center" width="200" style="padding: 15px; background-color: #161b22; border-radius: 10px;">
-      <h3 style="margin:0; color: #FFD700;">▐▐ 12.4k</h3>
-      <small style="color:#8b949e;">Total Render Calls</small>
-    </td>
-    <td align="center" width="200" style="padding: 15px; background-color: #161b22; border-radius: 10px;">
-      <h3 style="margin:0; color: #00FF7F;">▐▐ 0.02ms</h3>
-      <small style="color:#8b949e;">Frame Time (Avg)</small>
-    </td>
-    <td align="center" width="200" style="padding: 15px; background-color: #161b22; border-radius: 10px;">
-      <h3 style="margin:0; color: #FF4500;">▐▐ 144 FPS</h3>
-      <small style="color:#8b949e;">Locked</small>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -63,25 +41,19 @@
       </td>
       <td style="padding: 16px; color: #c9d1d9; font-weight: 500;">@_xiowu</td>
       <td style="padding: 16px; color: #2ea043;">
-        <span style="background: #2ea04320; padding: 4px 10px; border-radius: 20px; font-size: 12px;">⚡ 250K Followers</span>
-      </td>
-      <td style="padding: 16px; text-align: center;">
-        <a href="https://tiktok.com/@_xiowu" target="_blank" style="background: #ff0050; color: white; padding: 6px 12px; border-radius: 6px; text-decoration: none; font-size: 11px; font-weight: 600;">BUKA</a>
+        <span style="background: #2ea04320; padding: 4px 10px; border-radius: 20px; font-size: 12px;">🟢</span>
       </td>
     </tr>
     <!-- DISCORD -->
     <tr style="border-bottom: 0.5px solid #30363d;">
       <td style="padding: 16px; text-align: center;">
-        <a href="https://discord.com/users/xiowuche" target="_blank">
+        <a href="https://discord.gg/STgA33pED6" target="_blank">
           <img src="https://img.icons8.com/color/48/discord-logo.png" width="32" height="32" alt="Discord" style="vertical-align: middle;" />
         </a>
       </td>
-      <td style="padding: 16px; color: #c9d1d9; font-weight: 500;">@xiowuche</td>
+      <td style="padding: 16px; color: #c9d1d9; font-weight: 500;">XIOWU STORE</td>
       <td style="padding: 16px; color: #2ea043;">
-        <span style="background: #2ea04320; padding: 4px 10px; border-radius: 20px; font-size: 12px;">🟢 Online 24/7</span>
-      </td>
-      <td style="padding: 16px; text-align: center;">
-        <a href="https://discord.com/users/xiowuche" target="_blank" style="background: #5865F2; color: white; padding: 6px 12px; border-radius: 6px; text-decoration: none; font-size: 11px; font-weight: 600;">BUKA</a>
+        <span style="background: #2ea04320; padding: 4px 10px; border-radius: 20px; font-size: 12px;">🟢 </span>
       </td>
     </tr>
     <!-- INSTAGRAM -->
@@ -93,10 +65,7 @@
       </td>
       <td style="padding: 16px; color: #c9d1d9; font-weight: 500;">@xreoip4</td>
       <td style="padding: 16px; color: #2ea043;">
-        <span style="background: #2ea04320; padding: 4px 10px; border-radius: 20px; font-size: 12px;">📸 120K Followers</span>
-      </td>
-      <td style="padding: 16px; text-align: center;">
-        <a href="https://instagram.com/xreoip4" target="_blank" style="background: #d62976; color: white; padding: 6px 12px; border-radius: 6px; text-decoration: none; font-size: 11px; font-weight: 600;">BUKA</a>
+        <span style="background: #2ea04320; padding: 4px 10px; border-radius: 20px; font-size: 12px;">🟢</span>
       </td>
     </tr>
     <!-- TELEGRAM -->
@@ -108,10 +77,7 @@
       </td>
       <td style="padding: 16px; color: #c9d1d9; font-weight: 500;">@xiowustore</td>
       <td style="padding: 16px; color: #2ea043;">
-        <span style="background: #2ea04320; padding: 4px 10px; border-radius: 20px; font-size: 12px;">📢 Channel Update</span>
-      </td>
-      <td style="padding: 16px; text-align: center;">
-        <a href="https://t.me/xiowustore" target="_blank" style="background: #26A5E4; color: white; padding: 6px 12px; border-radius: 6px; text-decoration: none; font-size: 11px; font-weight: 600;">BUKA</a>
+        <span style="background: #2ea04320; padding: 4px 10px; border-radius: 20px; font-size: 12px;">🟢</span>
       </td>
     </tr>
     <!-- WHATSAPP (Tidak ada link universal, pake wa.me) -->
@@ -123,10 +89,7 @@
       </td>
       <td style="padding: 16px; color: #c9d1d9; font-weight: 500;">+62 812-5328-0827</td>
       <td style="padding: 16px; color: #2ea043;">
-        <span style="background: #2ea04320; padding: 4px 10px; border-radius: 20px; font-size: 12px;">💬 Fast Response</span>
-      </td>
-      <td style="padding: 16px; text-align: center;">
-        <a href="https://wa.me/6281253280827" target="_blank" style="background: #25D366; color: white; padding: 6px 12px; border-radius: 6px; text-decoration: none; font-size: 11px; font-weight: 600;">CHAT</a>
+        <span style="background: #2ea04320; padding: 4px 10px; border-radius: 20px; font-size: 12px;">🟢</span>
       </td>
     </tr>
   </tbody>
