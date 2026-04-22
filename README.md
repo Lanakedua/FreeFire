@@ -36,77 +36,98 @@
 
 ---
 
-### 🧠 INTEGRASI IMGUI.NET / C# (STYLE XIOWU)
-
-Buat lu yang nyari library visual tapi males pake *HTML murni* buat overlay cheat atau tools internal. Ini modul-modulnya di-*porting* langsung ke **ImGui.NET** style. Bisa lu embed di project C# WinForms atau WPF lu.
-
-| Modul | Status ImGui | Deskripsi Singkat (Bahasa Tongkrongan) |
-| :--- | :---: | :--- |
-| `Diagram` | ✅ | Bikin flowchart buat alur **Aimbot** atau **Wallhack**. Pake `AddRectFilled`, `AddBezierCurve`, beres. |
-| `Mockup` | ✅ | Bikin UI Form Login palsu buat **Phishing Panel** pake C#. Design clean, gak norak. |
-| `Interactive`| 🔄 | Slider buat atur **Smooth Aim**, **FOV Circle**, langsung update di overlay. |
-| `Chart` | ✅ | Visualisasi damage dealt pake **PlotLines** atau **PlotHistogram** di dalam game. |
-| `Art` | ❌ | (Skip dulu, fokus ke fungsional cheat dulu) |
-
----
-
-### 📞 CONTACT PANEL // SOSMED SQUAD XIOWU
+### 🧠 INTEGRASI SOSIAL MEDIA (IMGUI.NET STYLE)
 
 <p align="center" style="margin-bottom: 10px;">
-  <span style="background: #16213e; color: #e94560; padding: 4px 16px; border-radius: 20px; font-size: 12px; font-weight: bold; letter-spacing: 2px;">[ DEVELOPER ACCESS ]</span>
+  <span style="background: #16213e; color: #e94560; padding: 4px 16px; border-radius: 20px; font-size: 12px; font-weight: bold; letter-spacing: 2px;">[ DIRECT LINK PANEL ]</span>
 </p>
 
-<table align="center" style="border: none; background: transparent;">
-  <tr>
+<table align="center" style="width: 100%; max-width: 750px; background: #161b22; border-radius: 12px; border-collapse: collapse; border: 0.5px solid #30363d; overflow: hidden;">
+  <!-- HEADER -->
+  <thead>
+    <tr style="border-bottom: 0.5px solid #30363d;">
+      <th style="padding: 12px 16px; text-align: left; color: #8b949e; font-weight: 500; font-size: 12px; width: 60px;">LOGO</th>
+      <th style="padding: 12px 16px; text-align: left; color: #8b949e; font-weight: 500; font-size: 12px;">NAMA / NOMOR</th>
+      <th style="padding: 12px 16px; text-align: left; color: #8b949e; font-weight: 500; font-size: 12px;">STATUS</th>
+      <th style="padding: 12px 16px; text-align: center; color: #8b949e; font-weight: 500; font-size: 12px; width: 80px;">AKSI</th>
+    </tr>
+  </thead>
+  <!-- BODY -->
+  <tbody>
     <!-- TIKTOK -->
-    <td align="center" width="160" style="background: #161b22; border-radius: 12px; padding: 16px 8px; border: 0.5px solid #30363d;">
-      <div style="font-size: 28px; margin-bottom: 8px;">🎵</div>
-      <div style="font-weight: 600; font-size: 16px; color: #c9d1d9;">@_xiowu</div>
-      <div style="font-size: 11px; margin-top: 6px; padding: 4px 10px; background: #010101; color: #ff0050; border-radius: 20px; display: inline-block; font-weight: 500;">TIKTOK</div>
-      <div style="font-size: 12px; color: #8b949e; margin-top: 10px;">⚡ 250K Followers</div>
-    </td>
+    <tr style="border-bottom: 0.5px solid #30363d;">
+      <td style="padding: 16px; text-align: center;">
+        <a href="https://tiktok.com/@_xiowu" target="_blank">
+          <img src="https://img.icons8.com/color/48/tiktok--v1.png" width="32" height="32" alt="TikTok" style="vertical-align: middle;" />
+        </a>
+      </td>
+      <td style="padding: 16px; color: #c9d1d9; font-weight: 500;">@_xiowu</td>
+      <td style="padding: 16px; color: #2ea043;">
+        <span style="background: #2ea04320; padding: 4px 10px; border-radius: 20px; font-size: 12px;">⚡ 250K Followers</span>
+      </td>
+      <td style="padding: 16px; text-align: center;">
+        <a href="https://tiktok.com/@_xiowu" target="_blank" style="background: #ff0050; color: white; padding: 6px 12px; border-radius: 6px; text-decoration: none; font-size: 11px; font-weight: 600;">BUKA</a>
+      </td>
+    </tr>
     <!-- DISCORD -->
-    <td align="center" width="160" style="background: #161b22; border-radius: 12px; padding: 16px 8px; border: 0.5px solid #30363d;">
-      <div style="font-size: 28px; margin-bottom: 8px;">💬</div>
-      <div style="font-weight: 600; font-size: 16px; color: #c9d1d9;">@xiowuche</div>
-      <div style="font-size: 11px; margin-top: 6px; padding: 4px 10px; background: #5865F2; color: white; border-radius: 20px; display: inline-block; font-weight: 500;">DISCORD</div>
-      <div style="font-size: 12px; color: #8b949e; margin-top: 10px;">🟢 Online 24/7</div>
-    </td>
+    <tr style="border-bottom: 0.5px solid #30363d;">
+      <td style="padding: 16px; text-align: center;">
+        <a href="https://discord.com/users/xiowuche" target="_blank">
+          <img src="https://img.icons8.com/color/48/discord-logo.png" width="32" height="32" alt="Discord" style="vertical-align: middle;" />
+        </a>
+      </td>
+      <td style="padding: 16px; color: #c9d1d9; font-weight: 500;">@xiowuche</td>
+      <td style="padding: 16px; color: #2ea043;">
+        <span style="background: #2ea04320; padding: 4px 10px; border-radius: 20px; font-size: 12px;">🟢 Online 24/7</span>
+      </td>
+      <td style="padding: 16px; text-align: center;">
+        <a href="https://discord.com/users/xiowuche" target="_blank" style="background: #5865F2; color: white; padding: 6px 12px; border-radius: 6px; text-decoration: none; font-size: 11px; font-weight: 600;">BUKA</a>
+      </td>
+    </tr>
     <!-- INSTAGRAM -->
-    <td align="center" width="160" style="background: #161b22; border-radius: 12px; padding: 16px 8px; border: 0.5px solid #30363d;">
-      <div style="font-size: 28px; margin-bottom: 8px;">📷</div>
-      <div style="font-weight: 600; font-size: 16px; color: #c9d1d9;">@xreoip4</div>
-      <div style="font-size: 11px; margin-top: 6px; padding: 4px 10px; background: #d62976; color: white; border-radius: 20px; display: inline-block; font-weight: 500;">INSTAGRAM</div>
-      <div style="font-size: 12px; color: #8b949e; margin-top: 10px;">📸 120K Followers</div>
-    </td>
+    <tr style="border-bottom: 0.5px solid #30363d;">
+      <td style="padding: 16px; text-align: center;">
+        <a href="https://instagram.com/xreoip4" target="_blank">
+          <img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="32" height="32" alt="Instagram" style="vertical-align: middle;" />
+        </a>
+      </td>
+      <td style="padding: 16px; color: #c9d1d9; font-weight: 500;">@xreoip4</td>
+      <td style="padding: 16px; color: #2ea043;">
+        <span style="background: #2ea04320; padding: 4px 10px; border-radius: 20px; font-size: 12px;">📸 120K Followers</span>
+      </td>
+      <td style="padding: 16px; text-align: center;">
+        <a href="https://instagram.com/xreoip4" target="_blank" style="background: #d62976; color: white; padding: 6px 12px; border-radius: 6px; text-decoration: none; font-size: 11px; font-weight: 600;">BUKA</a>
+      </td>
+    </tr>
     <!-- TELEGRAM -->
-    <td align="center" width="160" style="background: #161b22; border-radius: 12px; padding: 16px 8px; border: 0.5px solid #30363d;">
-      <div style="font-size: 28px; margin-bottom: 8px;">✈️</div>
-      <div style="font-weight: 600; font-size: 16px; color: #c9d1d9;">@xiowustore</div>
-      <div style="font-size: 11px; margin-top: 6px; padding: 4px 10px; background: #26A5E4; color: white; border-radius: 20px; display: inline-block; font-weight: 500;">TELEGRAM</div>
-      <div style="font-size: 12px; color: #8b949e; margin-top: 10px;">📢 Channel Update</div>
-    </td>
-  </tr>
+    <tr style="border-bottom: 0.5px solid #30363d;">
+      <td style="padding: 16px; text-align: center;">
+        <a href="https://t.me/xiowustore" target="_blank">
+          <img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="32" height="32" alt="Telegram" style="vertical-align: middle;" />
+        </a>
+      </td>
+      <td style="padding: 16px; color: #c9d1d9; font-weight: 500;">@xiowustore</td>
+      <td style="padding: 16px; color: #2ea043;">
+        <span style="background: #2ea04320; padding: 4px 10px; border-radius: 20px; font-size: 12px;">📢 Channel Update</span>
+      </td>
+      <td style="padding: 16px; text-align: center;">
+        <a href="https://t.me/xiowustore" target="_blank" style="background: #26A5E4; color: white; padding: 6px 12px; border-radius: 6px; text-decoration: none; font-size: 11px; font-weight: 600;">BUKA</a>
+      </td>
+    </tr>
+    <!-- WHATSAPP (Tidak ada link universal, pake wa.me) -->
+    <tr>
+      <td style="padding: 16px; text-align: center;">
+        <a href="https://wa.me/6281253280827" target="_blank">
+          <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="32" height="32" alt="WhatsApp" style="vertical-align: middle;" />
+        </a>
+      </td>
+      <td style="padding: 16px; color: #c9d1d9; font-weight: 500;">+62 812-5328-0827</td>
+      <td style="padding: 16px; color: #2ea043;">
+        <span style="background: #2ea04320; padding: 4px 10px; border-radius: 20px; font-size: 12px;">💬 Fast Response</span>
+      </td>
+      <td style="padding: 16px; text-align: center;">
+        <a href="https://wa.me/6281253280827" target="_blank" style="background: #25D366; color: white; padding: 6px 12px; border-radius: 6px; text-decoration: none; font-size: 11px; font-weight: 600;">CHAT</a>
+      </td>
+    </tr>
+  </tbody>
 </table>
-
-<!-- WHATSAPP ROW -->
-<table align="center" style="margin-top: 16px; width: 100%; max-width: 660px; background: #161b22; border-radius: 12px; border: 0.5px solid #30363d;">
-  <tr>
-    <td style="padding: 12px 20px;">
-      <table style="width: 100%;">
-        <tr>
-          <td width="40" style="font-size: 32px;">📱</td>
-          <td>
-            <div style="font-weight: 600; font-size: 18px; color: #c9d1d9;">+62 812-5328-0827</div>
-            <div style="font-size: 13px; color: #8b949e; margin-top: 2px;">WhatsApp Business • Fast Response</div>
-          </td>
-          <td align="right">
-            <span style="background: #25D366; padding: 6px 16px; border-radius: 30px; font-size: 13px; font-weight: 600; color: white;">WHATSAPP</span>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
----
