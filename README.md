@@ -105,17 +105,3 @@ Buat lu yang nyari library visual tapi males pake *HTML murni* buat overlay chea
 </div>
 
 ---
-
-### 📦 DEPENDENCIES (SIAP TEMPUR)
-
-- **ImGui.NET** `1.89.9.1` *(Wajib, ini otaknya overlay)*
-- **Vortice.Windows** *(Buat hook DirectX 11/12, biar gak kedetect BE)*
-- **Newtonsoft.Json** *(Simpen konfigurasi Aimbot FOV)*
-
-### 📉 GRAFIK PERFORMA (D3D11 HOOK)
-
-```text
-[CPU USAGE]   ███████░░░░░░░  43% (ImGui Render)
-[GPU USAGE]   ████░░░░░░░░░░  18% (RTX 4060)
-[ESP LINES]   ██████████████  144 Draw Calls
-[BOOYAH RATE] ██████████████  99.99% (Kecuali kena ban manual)
