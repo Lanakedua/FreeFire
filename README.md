@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://p7.hiclipart.com/preview/121/207/781/garena-rov-mobile-moba-league-of-legends-youtube-singapore-cd.jpg" width="180" alt="Free Fire Squad Logo" />
+  <img src="https://media.discordapp.net/attachments/1481900847263907912/1496537076366184568/IMG_20260422_234348_852.jpg?ex=69ea3e43&is=69e8ecc3&hm=997214dfae8d39d396bcf3cfece41edc89f7aa8c37eec6492c7bf9d4ac421513&=&format=webp&width=525&height=350" width="180" alt="Free Fire Squad Logo" />
 </p>
 
 <h1 align="center" style="font-family: 'Courier New', monospace; font-weight: 900;">
