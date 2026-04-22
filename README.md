@@ -27,7 +27,6 @@
       <th style="padding: 12px 16px; text-align: left; color: #8b949e; font-weight: 500; font-size: 12px; width: 60px;">LOGO</th>
       <th style="padding: 12px 16px; text-align: left; color: #8b949e; font-weight: 500; font-size: 12px;">NAMA / NOMOR</th>
       <th style="padding: 12px 16px; text-align: left; color: #8b949e; font-weight: 500; font-size: 12px;">STATUS</th>
-      <th style="padding: 12px 16px; text-align: center; color: #8b949e; font-weight: 500; font-size: 12px; width: 80px;">AKSI</th>
     </tr>
   </thead>
   <!-- BODY -->
